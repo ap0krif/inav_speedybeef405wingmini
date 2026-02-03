@@ -173,3 +173,5 @@
 #define USE_PINIO
 #define USE_PINIOBOX
 #define PINIO1_PIN                  PC13
+#define PINIO2_PIN                  PA15
+#define PINIO3_PIN                  PB10
